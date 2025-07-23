@@ -14,8 +14,7 @@
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/VASUDEVAN-R?theme=dark&font=Marcellus&ext=contest)
+![VASUDEVAN-R's Streak](https://github-readme-streak-stats.herokuapp.com/?user=VASUDEVAN-R&theme=onedark&hide_border=true)
+![LeetCode Stats](https://leetcard.jacoblin.cool/vasudevan?theme=unicorn&font=Euphoria%20Script&ext=contest)
 
 [![vasudevan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VASUDEVAN-R&bg_color=1b181a&color=e5ebe6&line=1af934&point=e6e7e4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
