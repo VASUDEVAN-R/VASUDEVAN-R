@@ -1,4 +1,5 @@
 ## Hi there 👋 It's me VASUDEVAN R
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 As a passionate Full Stack Developer, my goal is to design and develop efficient, scalable, and user-centric web applications using modern technologies like ReactJS, Node.js, Express, and MongoDB. I aim to contribute to impactful projects, continuously improve my skillset, and explore the integration of AI to build smarter solutions for real-world problems.
  ## 💻 Web Developer | 🎯 Frontend Specialist | 🤖 AI Enthusiast
@@ -38,6 +39,7 @@ As a passionate Full Stack Developer, my goal is to design and develop efficient
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img height="50" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>
 
 ![VASUDEVAN-R's Streak](https://github-readme-streak-stats.herokuapp.com/?user=VASUDEVAN-R&theme=onedark&hide_border=true)
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/vasudevan?theme=unicorn&font=Euphoria%20Script&ext=contest)
 
 [![vasudevan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VASUDEVAN-R&bg_color=1b181a&color=e5ebe6&line=1af934&point=e6e7e4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
