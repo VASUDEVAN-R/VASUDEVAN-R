@@ -1,5 +1,5 @@
 ## Hi there 👋 It's me VASUDEVAN R
-<img align="right" width="300" height="180" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="300" height="120" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 As a passionate Full Stack Developer, my goal is to design and develop efficient, scalable, and user-centric web applications using modern technologies like ReactJS, Node.js, Express, and MongoDB. I aim to contribute to impactful projects, continuously improve my skillset, and explore the integration of AI to build smarter solutions for real-world problems.
 
