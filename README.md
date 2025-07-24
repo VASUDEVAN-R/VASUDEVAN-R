@@ -2,6 +2,8 @@
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 As a passionate Full Stack Developer, my goal is to design and develop efficient, scalable, and user-centric web applications using modern technologies like ReactJS, Node.js, Express, and MongoDB. I aim to contribute to impactful projects, continuously improve my skillset, and explore the integration of AI to build smarter solutions for real-world problems.
+
+
  ## 💻 Web Developer | 🎯 Frontend Specialist | 🤖 AI Enthusiast
 
 ## 🔭 Currently Learning
