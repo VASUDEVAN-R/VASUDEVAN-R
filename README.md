@@ -1,7 +1,47 @@
 ## Hi there 👋 It's me VASUDEVAN R
 
-- Social Presence
- <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vasudevan-r-a9005b292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/i_am_vasuvirat18/)
+## 🙋‍♂️ About Me
+
+ A passionate web developer from India 🇮🇳.
+
+ ## 💻 Web Developer | 🎯 Frontend Specialist | 🤖 AI Enthusiast
+
+- 👨‍💻 I enjoy building clean, interactive user interfaces using **ReactJS**, **JavaScript**, and **Tailwind CSS**.
+- 🧠 Currently diving into the world of **Artificial Intelligence** to merge creativity with intelligent systems.
+- 🎯 I believe in learning by doing — I love turning ideas into working apps.
+- 📚 Self-taught, curious, and constantly upgrading my skills.
+- 🎨 I enjoy solving UI/UX challenges and making things look and work great.
+- ⚡ Fun fact: I built a memory game just for fun, and now it's helping others improve their memory too!
+
+> My goal: Become a full-stack developer with AI integration skills.
+
+---
+### 🔭 Currently Learning
+
+- 🤖 Basics of AI and Machine Learning
+- 💡 Building interactive UIs with Framer Motion
+- 🧑‍🎨 UI/UX best practices
+  
+---
+
+  
+### 📫 Let's Connect
+ <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vasudevan-r-a9005b292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/i_am_vasuvirat18/
+
+---
+## 🙋‍♂️ About Me
+
+Hey there! I'm **Vasudevan R**, a passionate web developer from India 🇮🇳.
+
+- 👨‍💻 I enjoy building clean, interactive user interfaces using **ReactJS**, **JavaScript**, and **Tailwind CSS**.
+- 🧠 Currently diving into the world of **Artificial Intelligence** to merge creativity with intelligent systems.
+- 🎯 I believe in learning by doing — I love turning ideas into working apps.
+- 📚 Self-taught, curious, and constantly upgrading my skills.
+- 🎨 I enjoy solving UI/UX challenges and making things look and work great.
+- ⚡ Fun fact: I built a memory game just for fun, and now it's helping others improve their memory too!
+
+> My goal: Become a full-stack developer with AI integration skills.
+
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
