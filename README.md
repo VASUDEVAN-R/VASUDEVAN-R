@@ -43,6 +43,6 @@ As a passionate Full Stack Developer, my goal is to design and develop efficient
 
 ![VASUDEVAN-R's Streak](https://github-readme-streak-stats.herokuapp.com/?user=VASUDEVAN-R&theme=onedark&hide_border=true)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/vasudevan?theme=unicorn&font=Euphoria%20Script&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/VASUDEVAN?theme=catppuccinMocha&font=Caladea&ext=contest)
 
 [![vasudevan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VASUDEVAN-R&bg_color=1b181a&color=e5ebe6&line=1af934&point=e6e7e4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
