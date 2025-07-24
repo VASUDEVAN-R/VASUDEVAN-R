@@ -1,18 +1,8 @@
 ## Hi there 👋 It's me VASUDEVAN R
 
-## 🙋‍♂️ About Me
- A passionate web developer from India 🇮🇳.
+As a passionate Full Stack Developer, my goal is to design and develop efficient, scalable, and user-centric web applications using modern technologies like ReactJS, Node.js, Express, and MongoDB. I aim to contribute to impactful projects, continuously improve my skillset, and explore the integration of AI to build smarter solutions for real-world problems.
 
  ## 💻 Web Developer | 🎯 Frontend Specialist | 🤖 AI Enthusiast
-
-- 👨‍💻 I enjoy building clean, interactive user interfaces using **ReactJS**, **JavaScript**, and **Tailwind CSS**.
-- 🧠 Currently diving into the world of **Artificial Intelligence** to merge creativity with intelligent systems.
-- 🎯 I believe in learning by doing — I love turning ideas into working apps.
-- 📚 Self-taught, curious, and constantly upgrading my skills.
-- 🎨 I enjoy solving UI/UX challenges and making things look and work great.
-- ⚡ Fun fact: I built a memory game just for fun, and now it's helping others improve their memory too!
-
-> My goal: Become a full-stack developer with AI integration skills.
 
 ---
 ### 🔭 Currently Learning
@@ -22,6 +12,20 @@
 - 🧑‍🎨 UI/UX best practices
   
 ---
+
+## 🙋‍♂️ About Me
+
+ A Full Stack Developer from India 🇮🇳, passionate about building dynamic and responsive web applications.
+
+
+- 👨‍💻 I enjoy building clean, interactive user interfaces using **ReactJS**, **JavaScript**, and **Tailwind CSS**.
+- 🧠 Currently diving into the world of **Artificial Intelligence** to merge creativity with intelligent systems.
+- 🎯 I believe in learning by doing — I love turning ideas into working apps.
+- 📚 Self-taught, curious, and constantly upgrading my skills.
+- 🎨 I enjoy solving UI/UX challenges and making things look and work great.
+- ⚡ Fun fact: I built a memory game just for fun, and now it's helping others improve their memory too!
+
+> My goal: Become a full-stack developer with AI integration skills.
 
   
 ### 📫 Let's Connect
